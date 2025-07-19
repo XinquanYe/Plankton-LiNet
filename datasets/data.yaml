@@ -1,0 +1,28 @@
+# dataset path
+path: /root/autodl-tmp/ultralytics-main/datasets/
+train: images/train  # path + train
+val: images/valid # path + val
+test: images/test # path + test
+
+
+# number of classes
+nc: 15
+
+
+
+names:
+  0: Penilia avirostris
+  1: Microsetella
+  2: Gammarids
+  3: Cumacea
+  4: Chaetognatha
+  5: Acartia
+  6: Tortanus gracilis
+  7: Caligus
+  8: Lucifer
+  9: Creseis acicula
+  10: Coscinodiscus
+  11: Thalassionema nitzschioides
+  12: Skeletonema
+  13: Chaetoceros
+  14: Eucampia
